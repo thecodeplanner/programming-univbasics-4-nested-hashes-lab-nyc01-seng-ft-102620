@@ -131,4 +131,5 @@ def adding_to_dennis
       }
     }
   programmer_hash[:deniis_ritchie][:languages].push("Assembly")
+  programmer_hash
 end
