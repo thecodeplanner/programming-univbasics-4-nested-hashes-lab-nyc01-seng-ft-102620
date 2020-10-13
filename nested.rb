@@ -107,8 +107,6 @@ def changing_alan
     }
   programmer_hash[:alan_kay][:known_for] = "GUI"
 end
-  programmer_hash
-end
 
 
 def adding_to_dennis
@@ -130,5 +128,5 @@ def adding_to_dennis
         :languages => ["C"]
       }
     }
-
+  programmer_hash[:deniis_ritchie][:languages].push("Assembly")
 end
